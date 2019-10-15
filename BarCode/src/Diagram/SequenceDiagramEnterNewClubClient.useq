@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="SplashScreen" project="BarCode" file="/BarCode/BarCode/src/SplashScreen.java" 
+    binary="false" label="splashScreen" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="69" y="0"/>    
+    <execution id="2">      
+      <position height="199" width="0" x="0" y="86"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="136" width="0" x="0" y="128"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="0" x="0" y="222"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="Windows.EmployeMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/EmployeMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="6">      
+      <position height="21" width="0" x="0" y="159"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="136" width="0" x="0" y="309"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="73" width="0" x="0" y="351"/>    
+    </execution>  
+  </object>  
+  <object id="15" language="java" name="Windows.CostumersClub" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/CostumersClub.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="14">      
+      <position height="21" width="0" x="0" y="382"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="239" width="0" x="0" y="467"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="176" width="0" x="0" y="509"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="21" width="0" x="0" y="561"/>    
+    </execution>  
+  </object>  
+  <object id="25" language="java" name="Controller.CostumersClubController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/CostumersClubController.java" binary="false" label="costumersClubController" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="22">      
+      <position height="21" width="0" x="0" y="592"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="21" width="0" x="0" y="643"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="63" width="0" x="0" y="716"/>    
+    </execution>  
+  </object>  
+  <object id="29" language="java" name="Moduel.CostumersClubModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/CostumersClubModuel.java" binary="false" label="costumersClubModuel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="28">      
+      <position height="21" width="0" x="0" y="737"/>    
+    </execution>  
+  </object>  
+  <combined-fragment id="30" interaction-operator="OPT">    
+    <interaction-operand id="31" constraint="checkFields()">      
+      <fragment refId="32"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <message id="3" operation="callFrame():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="11" operation="openCostumersclubWindow():void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="17" operation="CostumersClub()" asynchronous="false">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="19" operation="initialize():void" asynchronous="false">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="21" operation="CostumersClubController(Windows.CostumersClub)" asynchronous="false">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="23" operation="getCurrentDate():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="27" operation="addClubClient(Classes.ClubClient):void" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>
+</sequence-diagram>

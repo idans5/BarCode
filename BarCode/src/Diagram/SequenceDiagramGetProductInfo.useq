@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="SplashScreen" project="BarCode" file="/BarCode/BarCode/src/SplashScreen.java" 
+    binary="false" label="splashScreen" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="97" y="0"/>    
+    <execution id="2">      
+      <position height="190" width="0" x="0" y="78"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="127" width="0" x="0" y="120"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="0" x="0" y="205"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="Windows.EmployeMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/EmployeMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="6">      
+      <position height="21" width="0" x="0" y="151"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="105" width="0" x="0" y="277"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="21" width="0" x="0" y="498"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="21" width="0" x="0" y="741"/>    
+    </execution>  
+  </object>  
+  <object id="15" language="java" name="Panels.TablePanel" project="BarCode" 
+    file="/BarCode/BarCode/src/Panels/TablePanel.java" binary="false" label="tablePanel" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="12">      
+      <position height="63" width="0" x="0" y="298"/>    
+    </execution>  
+  </object>  
+  <object id="18" language="java" name="Moduel.TableModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/TableModuel.java" binary="false" label="tableModuel" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="17">      
+      <position height="21" width="0" x="0" y="319"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="449" width="0" x="0" y="355"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="386" width="0" x="0" y="397"/>    
+    </execution>  
+  </object>  
+  <object id="32" language="java" name="Classes.Table" project="BarCode" file="/BarCode/BarCode/src/Classes/Table.java" 
+    binary="false" label="table" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="23">      
+      <position height="21" width="0" x="0" y="456"/>    
+    </execution>  
+  </object>  
+  <object id="33" language="java" name="Windows.TableDiscription" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/TableDiscription.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="26">      
+      <position height="21" width="0" x="0" y="578"/>    
+    </execution>  
+  </object>  
+  <object id="34" language="java" name="Windows.OrderManagement" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/OrderManagement.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="28">      
+      <position height="21" width="0" x="0" y="657"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="21" width="0" x="0" y="699"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="136" width="0" x="0" y="803"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="73" width="0" x="0" y="845"/>    
+    </execution>  
+  </object>  
+  <object id="40" language="java" name="Windows.ProductMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/ProductMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="39">      
+      <position height="21" width="0" x="0" y="876"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="84" width="0" x="0" y="940"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="21" width="0" x="0" y="982"/>    
+    </execution>    
+    <execution id="44">      
+      <position height="63" width="0" x="0" y="1035"/>    
+    </execution>  
+  </object>  
+  <object id="47" language="java" name="Controller.ProductController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/ProductController.java" binary="false" label="productController" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="46">      
+      <position height="21" width="0" x="0" y="1056"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="317" width="0" x="0" y="1093"/>    
+    </execution>  
+  </object>  
+  <object id="51" language="java" name="Moduel.ProductModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/ProductModuel.java" binary="false" label="productModuel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="50">      
+      <position height="275" width="0" x="0" y="1114"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="21" width="0" x="0" y="1278"/>    
+    </execution>  
+  </object>  
+  <object id="56" language="java" name="Classes.Product" project="BarCode" 
+    file="/BarCode/BarCode/src/Classes/Product.java" binary="false" label="product" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="55">      
+      <position height="21" width="0" x="0" y="1347"/>    
+    </execution>  
+  </object>  
+  <combined-fragment id="57" interaction-operator="ALT">    
+    <interaction-operand id="58" constraint="EmployeMenu.selectEmployee()">      
+      <fragment refId="59"/>    
+    </interaction-operand>    
+    <interaction-operand id="60" constraint="else"/>  
+  </combined-fragment>  
+  <combined-fragment id="61" interaction-operator="ALT">    
+    <interaction-operand id="62" constraint="searchLine.length()&lt;1"/>    
+    <interaction-operand id="63" constraint="else">      
+      <fragment refId="64"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <combined-fragment id="65" interaction-operator="ALT">    
+    <interaction-operand id="66" constraint="EmployeMenu.selectEmployee()">      
+      <fragment refId="67"/>      
+      <fragment refId="24"/>      
+      <fragment refId="22"/>    
+    </interaction-operand>    
+    <interaction-operand id="68" constraint="else"/>    
+    <combined-fragment id="67" interaction-operator="ALT">      
+      <interaction-operand id="69" constraint="checkIfSomeOneSit()">        
+        <fragment refId="25"/>      
+      </interaction-operand>      
+      <interaction-operand id="70" constraint="else">        
+        <fragment refId="31"/>        
+        <fragment refId="27"/>        
+        <fragment refId="29"/>      
+      </interaction-operand>    
+    </combined-fragment>  
+  </combined-fragment>  
+  <combined-fragment id="71" interaction-operator="ALT">    
+    <interaction-operand id="72" constraint="SearchTitleItemName.length()&lt;1"/>    
+    <interaction-operand id="73" constraint="else">      
+      <fragment refId="52"/>      
+      <fragment refId="74"/>    
+    </interaction-operand>    
+    <combined-fragment id="74" interaction-operator="OPT">      
+      <interaction-operand id="75" constraint="builder!=null">        
+        <fragment refId="54"/>      
+      </interaction-operand>    
+    </combined-fragment>  
+  </combined-fragment>  
+  <message id="3" operation="callFrame():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="11" operation="pressTableButton(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="16" operation="pressTableButton(java.lang.String):Classes.Table" asynchronous="false">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="20" operation="pressTableButton(java.lang.String):Classes.Table" asynchronous="false">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" 
+    operation="Table(java.lang.String,Classes.Employe,java.lang.String,java.lang.String,java.lang.String)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="getCurrentEmployee():Classes.Employe" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="25" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="27" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="29" operation="setTable(Classes.Table):void" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="31" operation="CloseFrame():void" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="36" operation="openProductMenu():void" asynchronous="false">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="38" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="42" operation="SearchButtonListener(java.awt.event.ActionListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="45" operation="ProductController(Windows.ProductMenu)" asynchronous="false">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="49" operation="getProductFromDataBaseByName(java.lang.String):Classes.Product" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="52" operation="searchProductAndReturnFileds(java.lang.String):java.lang.StringBuilder" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="54" operation="Product(java.lang.StringBuilder)" asynchronous="false">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>
+</sequence-diagram>

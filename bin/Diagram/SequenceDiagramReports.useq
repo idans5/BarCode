@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="SplashScreen" project="BarCode" file="/BarCode/BarCode/src/SplashScreen.java" 
+    binary="false" label="splashScreen" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="66" y="0"/>    
+    <execution id="2">      
+      <position height="199" width="0" x="0" y="88"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="136" width="0" x="0" y="130"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="0" x="0" y="224"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="java.awt.Window" project="BarCode" 
+    file="C:/Program Files/Java/jre1.8.0_201/lib/rt.jar" binary="true" label="frame" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="10">      
+      <position height="21" width="0" x="0" y="421"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="21" width="0" x="0" y="595"/>    
+    </execution>  
+  </object>  
+  <object id="12" language="java" name="Windows.EmployeMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/EmployeMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="6">      
+      <position height="21" width="0" x="0" y="161"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="178" width="0" x="0" y="306"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="115" width="0" x="0" y="348"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="Windows.Login" project="BarCode" file="/BarCode/BarCode/src/Windows/Login.java" 
+    binary="false" label="&lt;static&gt;" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="17">      
+      <position height="21" width="0" x="0" y="379"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="181" width="0" x="0" y="511"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="118" width="0" x="0" y="553"/>    
+    </execution>  
+  </object>  
+  <object id="26" language="java" name="Windows.ManagerMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/ManagerMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="25">      
+      <position height="21" width="0" x="0" y="629"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="147" width="0" x="0" y="699"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="189" width="0" x="0" y="862"/>    
+    </execution>    
+    <execution id="33">      
+      <position height="147" width="0" x="0" y="1067"/>    
+    </execution>  
+  </object>  
+  <object id="36" language="java" name="Controller.EmplotyeeController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/EmplotyeeController.java" binary="false" label="emplotyeeController" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="35">      
+      <position height="105" width="0" x="0" y="1088"/>    
+    </execution>  
+  </object>  
+  <object id="41" language="java" name="Moduel.EmployeeModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/EmployeeModuel.java" binary="false" label="employeeModuel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="40">      
+      <position height="21" width="0" x="0" y="1151"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="Controller.PaymentController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/PaymentController.java" binary="false" label="paymentController" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="32">      
+      <position height="147" width="0" x="0" y="883"/>    
+    </execution>  
+  </object>  
+  <object id="49" language="java" name="Moduel.PaymentModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/PaymentModuel.java" binary="false" label="paymentModuel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="44">      
+      <position height="21" width="0" x="0" y="904"/>    
+    </execution>  
+  </object>  
+  <object id="50" language="java" name="Panels.FinancialReport" project="BarCode" 
+    file="/BarCode/BarCode/src/Panels/FinancialReport.java" binary="false" label="financialReport" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="46">      
+      <position height="21" width="0" x="0" y="946"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="21" width="0" x="0" y="988"/>    
+    </execution>    
+    <execution id="38">      
+      <position height="21" width="0" x="0" y="1109"/>    
+    </execution>  
+  </object>  
+  <object id="51" language="java" name="Controller.ProductController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/ProductController.java" binary="false" label="productController" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="29">      
+      <position height="105" width="0" x="0" y="720"/>    
+    </execution>  
+  </object>  
+  <object id="56" language="java" name="Moduel.ProductModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/ProductModuel.java" binary="false" label="productModuel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="53">      
+      <position height="21" width="0" x="0" y="741"/>    
+    </execution>  
+  </object>  
+  <object id="57" language="java" name="Panels.InventoryReports" project="BarCode" 
+    file="/BarCode/BarCode/src/Panels/InventoryReports.java" binary="false" label="inventoryReports" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="55">      
+      <position height="21" width="0" x="0" y="783"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="callFrame():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="14" operation="openMangerWindow():void" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="Main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="21" operation="LoginUser():void" asynchronous="false">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="23" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="24" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="28" operation="ProductController(Panels.InventoryReports)" asynchronous="false">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="31" operation="PaymentController(Panels.FinancialReport)" asynchronous="false">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="34" operation="EmplotyeeController(Panels.FinancialReport)" asynchronous="false">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="37" operation="setTextFieldSalaryExpenses(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="39" operation="getSalaryExpenses():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="43" operation="getPaymentList(javax.swing.JTable):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="45" operation="getTableTransactionReport():javax.swing.JTable" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="47" operation="setTextFieldTotalIncomeFromSales(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="52" operation="getInventoryList(javax.swing.JTable):void" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="54" operation="getTableInventory():javax.swing.JTable" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>
+</sequence-diagram>

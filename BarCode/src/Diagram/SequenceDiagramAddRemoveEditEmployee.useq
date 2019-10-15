@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="SplashScreen" project="BarCode" file="/BarCode/BarCode/src/SplashScreen.java" 
+    binary="false" label="splashScreen" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="55" y="0"/>    
+    <execution id="2">      
+      <position height="199" width="0" x="0" y="81"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="136" width="0" x="0" y="123"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="0" x="0" y="217"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="java.awt.Window" project="BarCode" 
+    file="C:/Program Files/Java/jre1.8.0_201/lib/rt.jar" binary="true" label="frame" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="10">      
+      <position height="21" width="0" x="0" y="407"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="21" width="0" x="0" y="592"/>    
+    </execution>  
+  </object>  
+  <object id="12" language="java" name="Windows.EmployeMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/EmployeMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="6">      
+      <position height="21" width="0" x="0" y="154"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="178" width="0" x="0" y="292"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="115" width="0" x="0" y="334"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="Windows.Login" project="BarCode" file="/BarCode/BarCode/src/Windows/Login.java" 
+    binary="false" label="&lt;static&gt;" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="17">      
+      <position height="21" width="0" x="0" y="365"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="182" width="0" x="0" y="491"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="119" width="0" x="0" y="533"/>    
+    </execution>  
+  </object>  
+  <object id="26" language="java" name="Windows.ManagerMenu" project="BarCode" 
+    file="/BarCode/BarCode/src/Windows/ManagerMenu.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="25">      
+      <position height="21" width="0" x="0" y="610"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="155" width="0" x="0" y="684"/>    
+    </execution>  
+  </object>  
+  <object id="30" language="java" name="Controller.PanelController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/PanelController.java" binary="false" label="panelController" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="29">      
+      <position height="113" width="0" x="0" y="705"/>    
+    </execution>  
+  </object>  
+  <object id="35" language="java" name="Moduel.PanelModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/PanelModuel.java" binary="false" label="panelModuel" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="32">      
+      <position height="21" width="0" x="0" y="726"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="21" width="0" x="0" y="776"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="63" width="0" x="0" y="842"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="63" width="0" x="0" y="1721"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="Panels.EditEmployee" project="BarCode" 
+    file="/BarCode/BarCode/src/Panels/EditEmployee.java" binary="false" label="editEmployee" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="41">      
+      <position height="21" width="0" x="0" y="1742"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="63" width="0" x="0" y="1793"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="63" width="0" x="0" y="2443"/>    
+    </execution>  
+  </object>  
+  <object id="49" language="java" name="Panels.RemoveEmployee" project="BarCode" 
+    file="/BarCode/BarCode/src/Panels/RemoveEmployee.java" binary="false" label="removeEmployee" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="48">      
+      <position height="21" width="0" x="0" y="2464"/>    
+    </execution>    
+    <execution id="50">      
+      <position height="63" width="0" x="0" y="2522"/>    
+    </execution>  
+  </object>  
+  <object id="53" language="java" name="Controller.EmplotyeeController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/EmplotyeeController.java" binary="false" label="emplotyeeController2" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="52">      
+      <position height="21" width="0" x="0" y="2543"/>    
+    </execution>    
+    <execution id="54">      
+      <position height="157" width="0" x="0" y="2593"/>    
+    </execution>  
+  </object>  
+  <object id="57" language="java" name="Moduel.EmployeeModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/EmployeeModuel.java" binary="false" label="employeeModuel2" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="56">      
+      <position height="115" width="0" x="0" y="2614"/>    
+    </execution>    
+    <execution id="59">      
+      <position height="21" width="0" x="0" y="2656"/>    
+    </execution>  
+  </object>  
+  <object id="62" language="java" name="Controller.EmplotyeeController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/EmplotyeeController.java" binary="false" label="emplotyeeController1" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="45">      
+      <position height="21" width="0" x="0" y="1814"/>    
+    </execution>    
+    <execution id="63">      
+      <position height="567" width="0" x="0" y="1868"/>    
+    </execution>  
+  </object>  
+  <object id="66" language="java" name="Moduel.EmployeeModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/EmployeeModuel.java" binary="false" label="employeeModuel1" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="65">      
+      <position height="525" width="0" x="0" y="1889"/>    
+    </execution>  
+  </object>  
+  <object id="91" language="java" name="Panels.AddEmployee" project="BarCode" 
+    file="/BarCode/BarCode/src/Panels/AddEmployee.java" binary="false" label="addEmployee" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="38">      
+      <position height="21" width="0" x="0" y="863"/>    
+    </execution>    
+    <execution id="92">      
+      <position height="63" width="0" x="0" y="917"/>    
+    </execution>  
+  </object>  
+  <object id="95" language="java" name="Controller.EmplotyeeController" project="BarCode" 
+    file="/BarCode/BarCode/src/Controller/EmplotyeeController.java" binary="false" label="emplotyeeController" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="94">      
+      <position height="21" width="0" x="0" y="938"/>    
+    </execution>    
+    <execution id="96">      
+      <position height="736" width="0" x="0" y="988"/>    
+    </execution>  
+  </object>  
+  <object id="99" language="java" name="Moduel.EmployeeModuel" project="BarCode" 
+    file="/BarCode/BarCode/src/Moduel/EmployeeModuel.java" binary="false" label="employeeModuel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="98">      
+      <position height="694" width="0" x="0" y="1009"/>    
+    </execution>    
+    <execution id="101">      
+      <position height="21" width="0" x="0" y="1051"/>    
+    </execution>  
+  </object>  
+  <object id="126" language="java" name="Classes.FileFunction" project="BarCode" 
+    file="/BarCode/BarCode/src/Classes/FileFunction.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="103">      
+      <position height="21" width="0" x="0" y="1199"/>    
+    </execution>    
+    <execution id="107">      
+      <position height="21" width="0" x="0" y="1283"/>    
+    </execution>    
+    <execution id="111">      
+      <position height="21" width="0" x="0" y="1367"/>    
+    </execution>    
+    <execution id="115">      
+      <position height="21" width="0" x="0" y="1451"/>    
+    </execution>    
+    <execution id="119">      
+      <position height="21" width="0" x="0" y="1535"/>    
+    </execution>    
+    <execution id="123">      
+      <position height="21" width="0" x="0" y="1619"/>    
+    </execution>    
+    <execution id="68">      
+      <position height="21" width="0" x="0" y="1910"/>    
+    </execution>    
+    <execution id="72">      
+      <position height="21" width="0" x="0" y="1994"/>    
+    </execution>    
+    <execution id="76">      
+      <position height="21" width="0" x="0" y="2078"/>    
+    </execution>    
+    <execution id="80">      
+      <position height="21" width="0" x="0" y="2162"/>    
+    </execution>    
+    <execution id="84">      
+      <position height="21" width="0" x="0" y="2246"/>    
+    </execution>    
+    <execution id="88">      
+      <position height="21" width="0" x="0" y="2330"/>    
+    </execution>    
+    <execution id="61">      
+      <position height="21" width="0" x="0" y="2687"/>    
+    </execution>  
+  </object>  
+  <object id="127" language="java" name="Classes.Employe" project="BarCode" 
+    file="/BarCode/BarCode/src/Classes/Employe.java" binary="false" label="employe" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="105">      
+      <position height="21" width="0" x="0" y="1241"/>    
+    </execution>    
+    <execution id="109">      
+      <position height="21" width="0" x="0" y="1325"/>    
+    </execution>    
+    <execution id="113">      
+      <position height="21" width="0" x="0" y="1409"/>    
+    </execution>    
+    <execution id="117">      
+      <position height="21" width="0" x="0" y="1493"/>    
+    </execution>    
+    <execution id="121">      
+      <position height="21" width="0" x="0" y="1577"/>    
+    </execution>    
+    <execution id="125">      
+      <position height="21" width="0" x="0" y="1661"/>    
+    </execution>    
+    <execution id="70">      
+      <position height="21" width="0" x="0" y="1952"/>    
+    </execution>    
+    <execution id="74">      
+      <position height="21" width="0" x="0" y="2036"/>    
+    </execution>    
+    <execution id="78">      
+      <position height="21" width="0" x="0" y="2120"/>    
+    </execution>    
+    <execution id="82">      
+      <position height="21" width="0" x="0" y="2204"/>    
+    </execution>    
+    <execution id="86">      
+      <position height="21" width="0" x="0" y="2288"/>    
+    </execution>    
+    <execution id="90">      
+      <position height="21" width="0" x="0" y="2372"/>    
+    </execution>  
+  </object>  
+  <combined-fragment id="128" interaction-operator="ALT">    
+    <interaction-operand id="129" 
+      constraint="username.equals(&quot;admin&quot;) &amp;&amp; password.equals(&quot;admin&quot;)">      
+      <fragment refId="24"/>      
+      <fragment refId="23"/>    
+    </interaction-operand>    
+    <interaction-operand id="130" constraint="else"/>  
+  </combined-fragment>  
+  <combined-fragment id="131" interaction-operator="ALT">    
+    <interaction-operand id="132" constraint="result"/>    
+    <interaction-operand id="133" constraint="else">      
+      <fragment refId="124"/>      
+      <fragment refId="102"/>      
+      <fragment refId="112"/>      
+      <fragment refId="104"/>      
+      <fragment refId="116"/>      
+      <fragment refId="110"/>      
+      <fragment refId="106"/>      
+      <fragment refId="108"/>      
+      <fragment refId="114"/>      
+      <fragment refId="120"/>      
+      <fragment refId="122"/>      
+      <fragment refId="118"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <message id="3" operation="callFrame():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="14" operation="openMangerWindow():void" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="Main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="21" operation="LoginUser():void" asynchronous="false">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="23" operation="dispose():void" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="24" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="28" operation="PanelController(Windows.ManagerMenu)" asynchronous="false">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="31" operation="getPanelNames(java.util.Vector&lt;java.lang.String&gt;):void" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="33" operation="getPanels(javax.swing.JPanel):void" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="37" operation="AddEmployee()" asynchronous="false">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="40" operation="EditEmployee()" asynchronous="false">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="44" operation="EmplotyeeController(Panels.EditEmployee)" asynchronous="false">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="45"/>  
+  </message>  
+  <message id="47" operation="RemoveEmployee()" asynchronous="false">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="51" operation="EmplotyeeController(Panels.EditEmployee)" asynchronous="false">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="55" operation="removeEmployee(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="56"/>  
+  </message>  
+  <message id="58" operation="searchLineEmployee(java.lang.String):int" asynchronous="false">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="59"/>  
+  </message>  
+  <message id="60" operation="DeleteFromText(java.lang.String,int,int):void" asynchronous="false">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="61"/>  
+  </message>  
+  <message id="64" operation="editEmployee(Classes.Employe):void" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="67" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="68"/>  
+  </message>  
+  <message id="69" operation="getEmployeFirstName():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="70"/>  
+  </message>  
+  <message id="71" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="72"/>  
+  </message>  
+  <message id="73" operation="getEmployeLastName():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="74"/>  
+  </message>  
+  <message id="75" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="76"/>  
+  </message>  
+  <message id="77" operation="getEmployeSex():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="78"/>  
+  </message>  
+  <message id="79" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="80"/>  
+  </message>  
+  <message id="81" operation="getEmployeId():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="82"/>  
+  </message>  
+  <message id="83" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="84"/>  
+  </message>  
+  <message id="85" operation="getEmployeSalary():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="86"/>  
+  </message>  
+  <message id="87" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="88"/>  
+  </message>  
+  <message id="89" operation="getEmployePhoneNumber():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="90"/>  
+  </message>  
+  <message id="93" operation="EmplotyeeController(Panels.AddEmployee)" asynchronous="false">    
+    <end type="SOURCE" refId="92"/>    
+    <end type="TARGET" refId="94"/>  
+  </message>  
+  <message id="97" operation="addEmployee(Classes.Employe):void" asynchronous="false">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="98"/>  
+  </message>  
+  <message id="100" operation="searchEmploye(Classes.Employe):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="101"/>  
+  </message>  
+  <message id="102" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="103"/>  
+  </message>  
+  <message id="104" operation="getEmployeFirstName():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="105"/>  
+  </message>  
+  <message id="106" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="107"/>  
+  </message>  
+  <message id="108" operation="getEmployeLastName():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="109"/>  
+  </message>  
+  <message id="110" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="111"/>  
+  </message>  
+  <message id="112" operation="getEmployeSex():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="113"/>  
+  </message>  
+  <message id="114" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="115"/>  
+  </message>  
+  <message id="116" operation="getEmployeId():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="117"/>  
+  </message>  
+  <message id="118" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="119"/>  
+  </message>  
+  <message id="120" operation="getEmployeSalary():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="121"/>  
+  </message>  
+  <message id="122" operation="WriteToFile(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="123"/>  
+  </message>  
+  <message id="124" operation="getEmployePhoneNumber():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="125"/>  
+  </message>
+</sequence-diagram>
